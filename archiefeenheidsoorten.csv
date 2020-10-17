@@ -1,0 +1,801 @@
+"ABG","Aanbesteding",443
+"ABK","Archieftoegang",1
+"ABK2","Archiefblok",301
+"ACT","Act",640
+"AD","Architectdossier",306
+"ADAB","Audioalbum",403
+"ADBK","Adresboek",134
+"ADBP","Adresboekpagina",634
+"ADHDR","Aandeelhouder",698
+"ADRS","Adres",366
+"AFB","Afbeelding",836
+"AFB_RHT","Afbeeldingen Rijckheyt",9088
+"AFF","Affiche",48
+"AFK","Afkorting",96
+"AFKB","Afkortingbeschrijving",146
+"AGPT","Agendapunt",398
+"AISCH","Akte inschrijving",619
+"AKT","Akte",82
+"AKTE","Alle akten",9001
+"AKTERK","Erkenningsakte",390
+"AKTVE","Echtscheidingsakte",140
+"AKTWK","Akte v. wettiging v. kinderen",141
+"AL","Alinea",666
+"ALB","Fotoalbum",62
+"ALL_ADRES","Alle adressen",9086
+"ALLAFB","Alle afbeeldingen",9006
+"ALLAT","Alle aanwijzende tafels",9013
+"ALL_AVR","Alle soort archiefvormers",9049
+"ALLBES","Alle besluiten",9031
+"ALLBEV","Bevolkingsregister",9007
+"ALLBKTS","Alle bibliotheeksoorten",9022
+"ALL_BOUW_MON","Alle gebouwen en monumenten",9057
+"ALLBRON","Alle Bronnen",9025
+"ALLBSAKT","Alle BS Akten",9028
+"ALL_BVMTS","Bevolkingsmutaties",9069
+"ALLDFILM","Alle Duitse Films",9010
+"ALL_DOC_SRCB","Alle documenten col. Brands",9081
+"ALL_DOS","Alle dossiers",9094
+"ALLDTB","Alle DTB-boeken",9032
+"ALL_EB_DB","EB,DB",9087
+"ALL_EB_DB_CHR","EB DB en Charters",9099
+"ALLEIG","Alle eigendom",9030
+"ALL_FEST_EVMT","Festivals en evenementen",9090
+"ALL_FT","Foto bovengronds ROEZG",9070
+"ALLFTALB","Alle fotos en fotoalbums",9034
+"ALLFTKRT","Alle foto's en kaarten",9023
+"ALL_GED","Gedetineerden NHA",9071
+"ALL_GELD","Munten en bankbiljetten",9052
+"ALL_GELUID","Alle Geluidscollecties",9046
+"ALLKRNT","Alle kranten",9060
+"ALLKRT","Alle kaarten",9008
+"ALLLIT","Literatuur (ALLLIT)",9005
+"ALLLIT_2","Literatuur zonder TSART",9011
+"ALL_MON","Monasticon",9019
+"ALL_MUZ","Muziek",9083
+"ALLNOTSCHP","Schepen akten",9047
+"ALL_OCR_TRS","Record met ocr of transcripties",9105
+"ALL_OORKONDENBOEK","oorkondenboek",9104
+"ALL_PC_WFA","Afbeeldingen WFA",9085
+"ALL_PERS","Personen en akten",9002
+"ALL_PERS_2","Alle Personen",9016
+"ALLPGTEST","Alle psychologische testen",9024
+"ALL_PIC","Alle afbeeldingen demo",9018
+"ALL_PICGEA","Afbeeldingen GEA",9026
+"ALL_PNTR","Alle personen in troepenmacht",9027
+"ALL_POPARCHIEF","Alle poparchief beschrijvingen",9092
+"ALL_POPORG_LBL","Poporganisaties en labels",9091
+"ALL_PUBL","Alle publicaties",9067
+"ALL_RECHTERLIJK","PD, BB, INDEX",9079
+"ALL_REG","Alle regesten",9029
+"ALL_SND","Geluidsfragmenten(GDR+GF )",9020
+"ALL_TOEG","Alle toegangen",9017
+"ALL_TOEGANG","Archieftoegangen",9084
+"ALL_TOPPEN","Alle toppen",9012
+"ALL_VERBAAL","Hoofdenlijst, klappers en indexen",9065
+"ALL_VERG","Alle vergunningen",9033
+"ALL_VERG2","BD's en BT",9095
+"ALL_ZIG","Indexen",9093
+"ALTBST","Altoxml bestand",526
+"ALTT","Altoxml toegang",525
+"ALTTTXT","Altoxml blok",527
+"ANID","Analoge informatiedrager",424
+"AOV","Archievenoverzicht",8
+"AQAC","Acquisitie activiteit",249
+"AQPR","Acquisitieproject",248
+"ARCHOBJ","Archeologisch object",277
+"ART","Artikel",85
+"ARTO","Archieftoegang",81
+"ASG","Aanstelling",751
+"AT","Archiefterm",56
+"AUD","Audio",343
+"AUDBES","Audiobestand",190
+"AUREHE","Auteursrechthebbende",760
+"AVAGORG","Deelnemer AVAG",182
+"AVD","Aan- of verkoopdossier",181
+"AVGP","Akte van geregistreerd partnerschap",893
+"AVIT","Akte van indemniteit",233
+"AVR","Archiefvormer",15
+"AVRF","Archiefvormende familie",135
+"AVRP","Archiefvormende persoon",133
+"AVTP","Akte van transport",196
+"A2A_BEV_REG","Groepering tbv A2A Bevolkingsregister()",9041
+"A2A_BS_GEB","Groepering tbv A2A Geboorte (GEB en AKTERK)",9038
+"A2A_BS_HUW","Groepering tbv A2A Huwelijken (HUW en AKTVE)",9039
+"A2A_BS_OVE","Groepering tbv A2A Overlijden (OVE en OVEUIT)",9040
+"A2A_DTB_BEGR","Groepering tbv A2A Begraven (BA en BGIN)",9037
+"A2A_DTB_DOPEN","Groepering tbv A2A Doopakten (DPIN en DA)",9035
+"A2A_DTB_TROUW","Groepering tbv A2A Trouwen(TRA en TWIN)",9036
+"A2A_MEM_SUC","Groepering tbv A2A Memories van Successie()",9042
+"A2A_MIL_REG","Groepering tbv A2A Militieregister()",9048
+"A2A_NOT_AKT","Groepering tbv A2A Notariële archieven()",9043
+"A2A_PGLST","Groepering tbv A2A Passagiersregisters",9108
+"BA","Begraafakte",100
+"BAANW","Beschrijving aanwinst",690
+"BAG","Belastingaanslag",138
+"BB","Boedelbeschrijving",29
+"BBB","Beeldmateriaal",197
+"BBB_V","BBB_V",9074
+"BB_GAR","Beeldbank GAR",9107
+"BB_GVL","Beeldbank Vlissingen",9075
+"BB_HCO","Beeldbank HCO",9059
+"BB_NHA","Beeldbank NHA",9096
+"BBRF","Borgbrief",288
+"BB_RHCE","Beeldbank RHCE",9050
+"BBSK","Bouwbestek",137
+"BB_VPN","Beeldbank VPN",9058
+"BCS","Bibliotheekcatalogus",83
+"BD","Bouwdossier",31
+"BD_GBVG","Bdossier en vergunningen",9101
+"BDLPPR","Boedelpapier",580
+"BDPN","Borduurpatroon",238
+"BE","Bestek",308
+"BEHMEM","Behandelmemo",1030
+"BES","Beschrijving",271
+"BGIN","Begraafinschrijving",158
+"BGRR","Belastingregister",479
+"BGRV","Burgerrechtverlening",229
+"BG_STRN_LEM","Wetenswaardigheden",9102
+"BHOBJ","Bouwhistorisch object",276
+"BIBD","Bibliografisch document",184
+"BIB_GAR","Bibliotheek GAR",9106
+"BIB_HUA","Bibliotheek HUA",9097
+"BIDP","Bidprentje",111
+"BKT","Bankbiljet",518
+"BLRYB","Blu-ray beschrijving",567
+"BL_9016","Bladeren in akten",20001
+"BL_9017","Bladeren in personen",20002
+"BM","Bladmuziek",49
+"BNM","Bedrijfsnaam",193
+"BNMF","Bundelniveau voor MAIS-Flexis",588
+"BOEK","Boek",27
+"BOEKART","Artikel in boek",86
+"BOE_KRT","Boeken en kranten",9068
+"BOEKS","Boek in serie",97
+"BOUWVERG","Bouwvergunning",120
+"BOZK","Bodemonderzoek",903
+"BPA","Beschrijving in poparchief",148
+"BRF","Brief",51
+"BRFH","Briefhoofd",65
+"BRFREG","Briefregest",381
+"BSCH","Bemanning schip",292
+"BSD","BSD, RIO of Beleidsterrein",16
+"BSG","Beschikking",123
+"BSTK","Bestek",650
+"BSTPLN","Bestemmingsplan",796
+"BSTR","Bestuurder",230
+"BTEK","Bouwtekening",122
+"BTR","Betrokkene",641
+"BV","Bronverwijzing",52
+"BVBK","Brievenboek",469
+"BVG","Bronvermelding",77
+"BWK","Bouwwerk",191
+"BWOD","Bouwwerkonderdeel",192
+"BZKDOS","BZK Dossier",524
+"CATEG","Categorie",173
+"CD","Compact disc beschrijving",44
+"CDEV","Carte-de-visite",454
+"CDEX","Correspondentie extract",164
+"CHA","Charter",126
+"CLASS","Classificatiecode",136
+"CLDOS","Cliëntendossier",440
+"CLNT","Cliënt",625
+"CLSJ","Collateraal subject",459
+"COL","Collectie",14
+"COLLVST","Collegevoorstel",1028
+"COMM","commandant/hoofdbewaker",281
+"CONTR","Contract",1026
+"COPCAT","Copyright categorie",792
+"CPDR","Correspondentiedossier",364
+"CRST","Criminele sententie",474
+"CRTN","Cartoon",396
+"CTST","Centsprent",695
+"DA","Doopakte",106
+"DABK","Deelarchieftoegang",309
+"D_ABKU","Abkuerzung",10062
+"DAFB","Digitale afbeelding",372
+"DAGB","Dagboek",202
+"D_AKB","Akzessionsbuch",10083
+"D_AKE","Akzessionsentry",10084
+"D_AMBU","Amtsbuch",10069
+"D_ANBI","Andachtsbildchen",10030
+"D_APG","Aktenplangruppe",10082
+"D_AZN","Akzession",10070
+"DB","Deelbeschrijving",4
+"D_BESV","Bestandsverzeichnung",10050
+"D_BIBREF","Bib Referenz",10063
+"D_BILD","Bild",10089
+"D_BITO","Bild & Ton",10095
+"D_BSER","Bandserie",10006
+"D_BUCH","Buch",10019
+"D_BUS","Beständeübersicht",10022
+"DCBES","Dublin Core beschrijving",414
+"DCRT","Decreet",699
+"D_DISMAS","Disziplinarmassnahme",10060
+"DDOS","Deeldossier",213
+"DELO","Delo",252
+"DEN1","Den 1",351
+"DEN2","Den 2",352
+"DEN3","Den 3",353
+"D_EPBNAKT","Retrokonversion",10071
+"D_FFRA","Filmfragment",10041
+"D_FILM","Film",10040
+"D_FILMT","Filmteil",10052
+"D_FIND","Findbuch",10004
+"D_FIRMA","Firmenakte",10076
+"D_FOTO","Foto",10018
+"D_GBUR","Geburtsurkunde",10037
+"D_GERA","Gerichtsakte",10056
+"D_GEST","Gegenstand",10032
+"D_GLANS","Gleisanschluss",10064
+"D_GRAKT","Grundakte",10074
+"DGWDOS","DGW Dossier",620
+"D_HEUR","Heiratsurkunde",10028
+"DIA","Dia",66
+"DIAMAT","Diamateriaal",608
+"DIGIDOC","Digitaal document",604
+"DIGIFOTO","Digitaal gevormde foto",833
+"DIID","Digitale informatiedrager",425
+"D_INSTB","Institutionenbeschreibung",10088
+"D_JUSAKT","Justizakte",10073
+"D_KAPI","Kapitel",10010
+"D_KARTE","Karte",10061
+"D_KATA","Katalog",10023
+"D_KLAS","Klassifikation",10007
+"D_KORR","Korrespondenz",10066
+"DLR","Deelnemer",162
+"DM","Dummy inventaris",99
+"DMAP","Documentatiemap",270
+"D_MMO","Medaillen, Münzen und Orden",10098
+"D_MMS","Musikmanuskripte",10065
+"D_NTBL","Notenblatt",10026
+"DNTNI","Deel NTNI",291
+"DOC","Document",700
+"DOOS","Doos",200
+"D_ORTB","Ortbeschreibung",10087
+"DOS","Dossier",203
+"DOSS","Dossierserie",212
+"D_PAKT","Prozessakte",10075
+"D_PARA","Paragraph",10013
+"D_PBAKT","Personenbezogene Akte",10078
+"D_PERS","Person",10059
+"D_PHBES","Bestand",10025
+"D_PHFOT","Fotomaterial",10033
+"D_PHMIK","Mikrofiche",10015
+"D_PHPAP","Papier",10014
+"D_PHSAM","Sammlung",10024
+"DPIN","Doopinschrijving",156
+"D_PLAK","Plakat",1089
+"DPM","Diploma",870
+"D_PROV","Provenienz",10011
+"D_PSNB","Personenbeschreibung",10009
+"D_PSUR","Person in Urkunde",10036
+"D_PUS","Provenienzübersicht",10021
+"D_RESK","Realien und Skulpturen",10097
+"D_RFCO","Spezialverzeichnis",10080
+"D_RGST","Regest",10016
+"DRV","Drukvorm",679
+"DRW","Drukwerk",41
+"D_SAKT","Sachakte",10002
+"D_SAMV","Sammlungsverzeichnung",10012
+"D_SB","Sachbeschreibung",10086
+"DSBL","Dossierbijlage",721
+"D_SELREG","Bewertung",10081
+"D_SFPV","Spez Findmit pro Verzeichnung",10035
+"D_SIEG","Siegel",10031
+"D_SPFI","Spezifiziertes Findmittel",10034
+"D_STAKT","Steuerakte",10077
+"DSTP","Dienstplichtige",231
+"D_STUR","Sterbeurkunde",10029
+"D_TAUR","Taufurkunde",10027
+"DTB","DTB",9066
+"DTB_BOEKEN","DTB-boeken",9055
+"DTBREG","DTB register",475
+"D_TEXT","Text",10005
+"D_TKGR","Tektonikgruppe",10017
+"D_URK","Urkunde",10038
+"D_URKS","Urkunde Serie",10068
+"D_VAR","Varia",10057
+"DVDBS","DVD beschrijving",565
+"EB","Enkelvoudigebeschrijving",5
+"ECPD","Encyclopedie",599
+"ECPG","Encyclopediepagina",637
+"EDMT","Egodocument",449
+"EDOC","Electronisch document",45
+"EGR","Eigenaar",378
+"EMGRT","Emigrant",296
+"ES","Echtscheidingsakte",110
+"ETT","Etiket",375
+"EVB","Enkelvoudige verzamelbeschrijving",686
+"EVMNT","Optreden",644
+"EXT_KNMRK","Extern kenmerk",841
+"FEST","Festivaleditie",643
+"FF","Filmfragment",35
+"FILM","Film",34
+"FILM_GEL","Film en geluidfragment",9109
+"FILMS","Alle films",9003
+"FKL","Fotoknipsel",717
+"FKRAP","Filmkeuringsrapport",701
+"FMBR","Familiebericht",247
+"FN","Functie",335
+"FNCR","Functionaris",73
+"FOND","Fond",250
+"FOTO1","Eenvoudige foto",19
+"F_PIB","Persoon in bron",867
+"FSAFB","Serie afbeeldingen fysiek",446
+"FSLB","Filmspoel beschrijving",569
+"FT","Foto",7
+"FTBG","Foto bovengronds",585
+"FT_PBK","Foto's en prentbriefkaarten",9044
+"FTS","Fotoserie",60
+"FWPN","Familiewapen",471
+"GB","Gebeurtenis",24
+"GBLG","Grondbelasting",494
+"GBVG","Gebruikersvergunning",800
+"GDN","Gedetineerde",161
+"GDOP","Geluidsopname",405
+"GDOP_GF","Geluidsopname",9056
+"GDR","Geluidsdrager",183
+"GDT","Gedicht",283
+"GDTA","Grondtransactie",239
+"GEB","Geboorteakte",113
+"GEBIN","Geboorteinschrijving",573
+"GEEN","Geen archiefeenheidsoort",1000
+"GEKOPBEST","Gekoppeld bestand",154
+"GENBR","Genealogische bron",169
+"GEN_BRON","PIBR, DTB, BS",9078
+"GF","Geluidsfragment",20
+"GFAI","Faillissementsdossier",297
+"GIN","Geïnterneerde",758
+"GL","Geluid",21
+"GLDT","Geluidstape",564
+"GMTE","Gemeente",481
+"GNEG","Glasnegatief",68
+"GNRE","Genre",659
+"GRAK","Gerechtelijke akte",426
+"GRAKTE","Gerichtsakte",554
+"GREG","Gietregister",682
+"GRF","Graf",453
+"GRFC","Gemeenteraadsfunctie",743
+"GRSL","Grondslag",794
+"GRTE","Gratie",702
+"GRVAK","Gerechtelijke vervolgakte",542
+"GSTL","Gasteling",232
+"GTEK","Geografische tekening",131
+"GTEST","Gedragstest",360
+"GUIDREL","Relatie via GUID",750
+"GZN","Gezin",286
+"HA","Hypotheekakte",104
+"HASC","Handschrift",69
+"HDU","Hard Disk Unit",79
+"HH_VERGUNNINGEN","Hoogheemraadschapsvergunningen",9098
+"HLG","Handeling",17
+"HLITM","Hoofdenlijstitem",602
+"HLK","Hyperlink",210
+"HSK","Hoofdstuk",36
+"HUA_BD_BTEK","Bouwdossiers en bouwtekeningen HUA",9053
+"HUW","Huwelijksakte",109
+"HUWAFK","Huwelijksafkondiging",155
+"HUWB","Huwelijksbijlage",410
+"HUWDIS","Huwelijksdispensatie",284
+"HWV","Hinderwetvergunning",204
+"HWV_MILV","Vergunningen",9100
+"HYSCH","Hypotheekschuldenaar",298
+"IB","Identiteitsbewijs",865
+"IDDOC","ID Document",356
+"IDXBS","Indexbeschrijving",579
+"IHSRG","Inschrijving in haardstedenregister",492
+"IIBB","Inschrijving in burgerboek",451
+"IIDB","Inschrijving in dodenboek",461
+"IIGR","Inschrijving in grafrechtregister",883
+"IIKB","Inschrijving in klepboek",450
+"IIMB","Inschrijving in memorieboek",834
+"IIML","Inschrijving in militieregister",633
+"IIOB","Inschrijving in obituarium",888
+"IIPR","Inschr. in publicatieregister",470
+"IIRAL","Inschrijving in register van aangegeven lijken",859
+"IIRS","Inschrijving in resolutie",462
+"IIRVO","Inschrijving in register van overledenen",857
+"IIVDR","Inschrijving voordijregister",495
+"IIWB","Inschrijving in weesboek",457
+"IKBV","Indexkaart op Bouwvergunningen",371
+"ILL","Illustratie",223
+"INBR","Inschrijving in besnijdenisregister",894
+"INCAT","Inhoudscategorie",472
+"INDEX","Index",28
+"INDEXBEST","Te indexeren bestand",153
+"INIO","Inschrijving in OAT",863
+"INIS","Inschrijving in SAT",864
+"INKPOST","Inkomend poststuk",1025
+"INL","Inleiding",9
+"INRN","Inschr.reg.naamsaanneming",486
+"INS","Inschrijving",407
+"INSG","Inschrijving Synagoge",393
+"INSLDMT","Lidmateninschrijving",577
+"INTVW","Interview",244
+"INV","Inventaris",30
+"INW","Inwoner",293
+"IOWP","Indexonderwerp",194
+"IPOB","Impost op begraven",402
+"IPOT","Impost op trouwen",401
+"IPVZ","Inschr.Prot.Vol.Zaken",473
+"ISBR","Persoon volkstellingsregister",235
+"ISG","Instelling",862
+"ISTK","Ingekomen stuk",491
+"ITBN","Internetbron",657
+"ITM","Item",665
+"JRG","Jaargang",374
+"JRNL","Journaal",703
+"JVG","Jaarverslag",376
+"KADBR","Kadasterbron",236
+"KBG","Kampbeschrijving",279
+"KDAD","Kadastrale aanduiding",844
+"KDART","Kadastraal artikel",842
+"KDEIG","Kadastraal eigenaar",321
+"KDK","Kadasterkaart",144
+"KDL","Deelkaart",409
+"KFIE","Kampfunctie",280
+"KHR","Kohier",519
+"KLDR","Kalender",681
+"KLITM","Klapperitem",601
+"KLNG","Kloosterling",439
+"KLOR","Kloosterorganisatie",70
+"KLR","kampleider",282
+"KMP","Knipselmap",340
+"KNST","Kunst",689
+"KOF","Kunstwerk op foto",590
+"KP","Kadastraal plan",307
+"KPLTS","Kernplaats",560
+"KRANT","Krant",91
+"KRART","Krantenartikel",278
+"KRKLD","Kerkenraadslid",322
+"KRLEG","Krantenlegger",672
+"KRT","Kaart",32
+"KRTIT","Krantentitel",673
+"KRTP","Krantenpagina",90
+"KRT_RKS","Kaarten en Kaartreeksen",9015
+"KRT_TNG","Kaarten en tekeningen",9045
+"KUNSTCOL","Kunstcollectie",9103
+"KVB","Kaartserie",33
+"KVG","Keurvergunning",227
+"KVK","Stukken Kamer van Koophandel",13
+"KWST","Kwartierstaat",748
+"KZR","Kiezer",160
+"LBL","Label",645
+"LDMT","Lidmaat",199
+"LDR","Landdagreces",72
+"LEG","Kadastrale legger",124
+"LEGA","Leggerartikel",383
+"LEM","Lemma",75
+"LFT","Luchtfoto",130
+"LICI","Liste civique",205
+"LID","Lid",163
+"LIT_GZD","Bibliotheek GZD",9076
+"LIT_NHA","Bibliotheek NHA",9082
+"LIT_SAD","Literatuur SAD",9089
+"LITVW","Literatuurverwijzing",377
+"LOC","Locatie",94
+"LOZVERG","Lozingsvergunning",241
+"LRG","Leenregister",208
+"LRLG","Leerling",447
+"LST","Lijst",11
+"LTPRF","Letterproef",677
+"LTT","Lettertype",663
+"LVH","Levensverhaal",78
+"MAP","Map",201
+"MIG","Migrant",159
+"MILR","Militair",294
+"MILVERG","Milieuvergunning",240
+"MMLD","Milieumelding",476
+"MNMIS","Manumissie",704
+"MNMNT","Monument",399
+"MNT","Munt",448
+"MOBO","Morgenboek",628
+"MPRO","Medisch protocol",408
+"MSLL","Militaire school leerling",273
+"MVS","Memorie van successie",215
+"NABS","Nationaliteitsbewijs",444
+"NEG","Negatief",67
+"NIDX","Naamindex",385
+"NMVERB","Naamsverbetering",116
+"NOT","Notulen",206
+"NOTAKT","Notariële akte",224
+"NOTBR","Notariële bron",237
+"NOTCOR","Notulen en correspondentie",9054
+"NRRKS","Nummerreeks",578
+"NSK","Negatiefstrook",825
+"NT","Nadere toegang",18
+"NTNI","Nadere toegang per invnr",54
+"NWG","Naamswijziging",389
+"OAT","Oorspr. aanwijzende tafel",260
+"OBJA","Object in akte",103
+"OBJAFB","Object op afbeelding",179
+"OBJSRT","Objectsoort",406
+"OBJT","Object",166
+"OCRTOP","Ocr data",50
+"OCR_TXT","Ocr text",59
+"OCTV","Octrooiverlening",326
+"ODOS","Objectdossier",718
+"OGINKRANT","Onroerend goed in krant",362
+"OGR","Opdrachtgever",882
+"OGVG","Omgevingsvergunning",382
+"OND","Onderwerp met handelingen",25
+"ONRGOED","Onroerend goed",268
+"ONTHEF","Ontheffing",587
+"OOG","Oorkonde overlevering",838
+"OOR","Oorkonde",837
+"OPIS","Opis",251
+"OPS","Opsomming",687
+"ORDON","Ordonnantie",263
+"ORGA","Organisatie in akte",395
+"ORGADR","Organisatieadres",171
+"ORGAN","Organisatie",170
+"OSFFR","Oorlogsslachtoffer",705
+"OTREG","Ondertrouwregistratie",174
+"OVE","Overlijdensakte",114
+"OVEUIT","Uittreksel overlijdensakte",391
+"OVEVK","Overlijdensverklaring",549
+"OVIN","Overlijdensinschrijving",325
+"OVLAG","Overlijdensaangifte",452
+"OVLBT","Overlijdensbericht",327
+"OWP","Onderwerp",176
+"OZGBES","Onderzoeksgidsbestand",755
+"OZGHSK","Onderzoeksgidshoofdstuk",752
+"OZGLNK","Onderzoeksgidslink",756
+"OZGOPS","Onderzoeksgidsopsomming",754
+"OZGOZT","Onderzoeksgidsenoverzicht",741
+"OZGS","Onderzoeksgids",716
+"OZGTBL","Onderzoeksgidstabeltekst",757
+"OZGTH","Onderzoeksgidstableheader",762
+"OZGTR","Onderzoeksgidstablerow",761
+"OZGTST","Onderzoeksgidstekst",719
+"PAP","Papieren stuk",302
+"PASP","Paspoort",354
+"PB","Persoonbeschrijving",211
+"PBCTB","Publicatie bovengronds",562
+"PBCTO","Publicatie ondergronds",498
+"PBELR","Persoon in belastingregister",489
+"PBK","Prentbriefkaart",46
+"PBR","Persoon in bevolkingsregister",112
+"PCVB","Persoon in proces verbaal",418
+"PD","Procesdossier",26
+"PDKT","Predikant",328
+"PDM","Podium",845
+"PDS","Persoonsdossier",906
+"PEN","Penning",76
+"PEPR","Persoon in politieregister",853
+"PERC","Perceel",528
+"PFT","Pamflet",363
+"PGBLR","Pagina in belastingregister",843
+"PGF","Paragraaf",38
+"PGIK","Pagina in kohier",787
+"PGKL","Pagina in klapper",789
+"PGLST","Passagierslijst",387
+"PGNA","Pagina",496
+"PGPB","Pagina in poorterboek",847
+"PGPR","Pagina in personeelsregister",849
+"PGPSR","Pagina in pensioenregister",851
+"PGRM","Programma",886
+"PIBHO","Persoon in Bouwhistor Object",485
+"PIBR","Pagina in bevolkingsregister",388
+"PIGRAK","Persoon in gerechtelijke akte",890
+"PIIB","Persoon in impost op begraven",855
+"PIIT","Persoon in impost op trouwen",854
+"PIKVD","Persoon in koopvaardij",793
+"PIN","Pagina in notulen",835
+"PIO","Plaats in oorkonde",839
+"PIOB","Persoon in obituarium",889
+"PIOR","Persoon in ondertrouwregistratie",856
+"PIPA","Persoon in Provinciaal Archief",551
+"PIPR","Pagina in politieregister",852
+"PIRAL","Persoon in register van aangegeven lijken",860
+"PIRVO","Persoon in register van overledenen",858
+"PIV","Persoon in vergunning",909
+"PIWA","Persoon in weeskamerarchief",460
+"PIWM","Persoon in register van weerbare mannen",875
+"PLB","Plaatsbepaling",300
+"PLDOS","Pleeggezindossier",626
+"PLN","Plaatsnaam",93
+"PMZ","Pagina in militaire zaken",765
+"PNABS","Persoon nationaliteitsbewijs",445
+"PNGR","Persoon in grafrechtregister",242
+"PNIO","Persoon in oorkonde",840
+"PNNA","Persoon in notariële akte",234
+"POIB","Persoon op identiteitsbewijs",866
+"POPORG","Poporganisatie",639
+"PORTO","Portokosten",763
+"POWK","Persoon op woningkaart",458
+"PP","Politieke partij",744
+"PRAC","Projectactiviteit",369
+"PRAR","Projectactiviteitrol",370
+"PRBT","Projectbetrokkene",368
+"PRD","Product",400
+"PRENT","Prent",61
+"PROBE","Procesbeschrijving",255
+"PRODOS","Projectdossier",791
+"PRS_VON","Personen in Vonnis",9009
+"PRTRT","Portret",747
+"PSA","Persoon in akte",102
+"PSAFB","Persoon op afbeelding",178
+"PSB","Persoon in beschikking",127
+"PSBR","Persoon in besnijdenisregister",895
+"PSBW","Persoonsbewijs",438
+"PSCHR","Persoon in schepenakte",488
+"PSDOS","Persoon in dossier",649
+"PSE","Persoon in erelijst",269
+"PSFT","Pasfoto",195
+"PSGEN","Persoon in genealogie",285
+"PSIBR","Persoon in bedelingsregister",435
+"PSIK","Persoon in kohier",788
+"PSINSG","Persoon inschrijving Synagoge",394
+"PSK","Persoon in Kamp",310
+"PSKR","Persoon voor krijgsraad",274
+"PSKRK","Persoon in kerkelijk register",264
+"PSKRT","Persoonskaart",455
+"PSL","Persoon in landstorm",373
+"PSM","Persoon in militieregister",265
+"PSMS","Persoon in memorie van successie",275
+"PSN","Persoon",108
+"PSNGI","Persoon in GI",553
+"PSNPD","Persoon in procesdossier",586
+"PSP","Persoon in publicatie",145
+"PSPB","Persoon in poorterboek",846
+"PSPOP","Poppersoon",642
+"PSPR","Persoon in personeelsregister",848
+"PSPSR","Persoon in pensioenregister",850
+"PSROL","Rol",646
+"PSSCH","Persoon in schutterij",555
+"PSSGE","Passage",706
+"PSTR","Persoon in taxatierapport",552
+"PSV","Persoon in vonnis",88
+"PTEST","Prestatieniveautest",361
+"PTNT","Patiënt",323
+"PVCIE","Provincie",769
+"PZGL","Postzegel",664
+"RAADINFO","Raadsinformatie",1027
+"RAADVST","Raadsvoorstel",1029
+"REALIA","Realia",350
+"REG","Regest",10
+"REGEIG","Register van eigendom",267
+"REGMB","Registratiekaart militaire begraafplaats",266
+"REK","Rekwestrant",40
+"RELEA","Release",638
+"RES","Resolutie",209
+"RFCO","Contexttoegang",84
+"RGST","Registervermelding",483
+"RKS","Reeks",98
+"RKST","Rekestrant",329
+"RLA","Rol in act",662
+"RMP","Riemkap",683
+"RORG","Raadpleegorganisatie",1031
+"RPIV","Rechtspersoon in vergunning",910
+"RPOST","Rekeningpost",74
+"RSPSN","Rechtspersoon",827
+"RUB","Rubriek",6
+"RVWM","Register van weerbare mannen",874
+"SA","Schepenakte",225
+"SABS","Supplement akte burgerlijke stand",896
+"SAS","Schade aan Stuk",774
+"SAT","Suppletoire aanwijzende tafel",261
+"SB","Schuldbekentenis",105
+"SBES","Serie",139
+"SBOEK","Serie boeken",118
+"SC","Schadeconstatering",773
+"SCHP","Schip",415
+"SCN","Scan bij een inventarisnummer",187
+"SCNNI","Gescand inventarisnummer",186
+"SCNT","Toegang met Scans",185
+"SCNTNI","Toegang met scans bij één stuk",188
+"SD","Studentdossier",222
+"SELREG","Selectieregel",147
+"SGKRT","Persoon op signalementskaart",484
+"SGRE","Stemgerechtigde",357
+"SHDR","Schilderij",499
+"SISO","SISO-Code",149
+"SKR","Serie kranten",289
+"SKZ","Suikerzakje",92
+"SLF","Slaaf",798
+"SLOOPDOS","Sloopdossier",262
+"SLOOPVERG","Sloopvergunning",861
+"SPBK","Serie prentbriefkaarten",47
+"SRAFB","Serie afbeeldingen",168
+"SRBD","Serie bouwdossiers",908
+"STDOS","Steundossier",772
+"STIJD","Serie tijdschriften",121
+"STRB","Stripboek",315
+"STRN","Straatnaam",165
+"STRS","Stripstrook",384
+"SUB","Subarchief",12
+"SUBCAT","Subcategorie",228
+"SVBB_RDG","Std. voor beh. en bewerken RGD",648
+"SYN","Synonym",422
+"SYNGRP","Synonymengroep",421
+"SYNLST","Synonymenlijst",420
+"TB","Tijdsbalk",22
+"TBE","Tijdsbalkeenheid",23
+"TBLROW","Tablerow",759
+"TBSTR","Tabstrook",172
+"TDL","Tekstonderdeel",80
+"TEST_ABK_NT","ABk,NTNI,COL,NT",9072
+"TGKRT","Topografische kaart",365
+"TGL","Tegel",713
+"TH","Tableheader",337
+"THTM","Thesaurusterm",658
+"TJT","Tienjarentafel",380
+"TM","Termijn",336
+"TNDS","Tienddossier",386
+"TNG","Tekening",57
+"TOESTA","Toegangsstatus",570
+"TPD","Tribunaal procesdossier",367
+"TRA","Trouwakte",142
+"TRBEL","Transportbelasting",333
+"TRCK","Track",404
+"TRD","Tablerowdata",338
+"TRGLD","Trouwgeld",334
+"TRST","Toerist",295
+"TS","Tijdschrift",42
+"TSART","Artikel in tijdschrift",43
+"TSC","Transcriptie",272
+"TSCNI","Getranscribeerd invnr",478
+"TSCT","Transcriptietoegang",477
+"TSPG","Tijschriftpagina",574
+"TSS","Tijdschrift in serie",87
+"TST","Tekst",39
+"TTEK","Technische tekening",58
+"TWIN","Trouwinschrijving",157
+"TXTILLU","Tekstillustratie",770
+"UDC","UDC-Code",89
+"UITGPOST","Uitgaand poststuk",1024
+"URL","Internetadres",287
+"VA","Verkoopakte",101
+"VABK","Verzameltoegang",290
+"VAFB","Vervaardiger van afbeelding",167
+"VB","Verzamelbeschrijving",2
+"VDB","Verzameldeelbeschrijving",3
+"VDBB","Videoband beschrijving",568
+"VDR","Vervaardiger",177
+"VEPL","Vestigingsplaats",71
+"VERG","Vergunning",339
+"VERM","Vermelding",392
+"VERO","Verordening",107
+"VFEST","Festival",647
+"VG","Vredegerecht",55
+"VGNT","Vignet",680
+"VIND","Vinding",434
+"VISRCHT","Visrecht",707
+"VLGN","Vlag",624
+"VLREG","Vluchtelingenregister",766
+"VLU","Vluchteling",550
+"VNG","VNG-code",95
+"VNGRUB","VNG-rubriek",214
+"VON","Vonnis",216
+"VSG","Verslag",768
+"VW","Voorwerp",53
+"VWG","Verwijsbeschrijving",603
+"VZB","Verzetsbetrokkene",129
+"VZS","Verzoekschrift",482
+"WBEX","Webexpositie",412
+"WBEXIT","Webexpositie item",413
+"WBK","Woordenboek",416
+"WDRW","Waardedrukwerk",678
+"WETKND","Wettiging kind",115
+"WINDRCHT","Windrecht",708
+"WINVERL","Aanwinsten en verliezen",311
+"WNDOS","Woondossier",618
+"WNKRT","Woningkaart",456
+"WOON","Woonomgeving",9073
+"WP_GHG","Persoons- en Woningkaarten GHG",9051
+"WRKNMR","Werknemer",324
+"WSKD","Weeskind",198
+"WVOVERG","WVO vergunning",480
+"WYNG","Wayang",907
+"WZDOS","Wezendossier",636
+"XVRWZ","Verwijzing in MF niet voor gebruik op MW",63
+"ZAAKA","Zaak in akte",117
+"ZGL","Zegel",207
+"ZI_KRT","Kranten",9014
+"ZI_-1","Archiefdiensten",7999
+"ZK","Zaak",898
+"ZKAT","Zoekactie",246
+"ZKVG","Zoekvraag",561
+"ZWR","Zoekwijzer",245

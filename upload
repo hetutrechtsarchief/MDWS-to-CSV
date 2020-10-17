@@ -1,0 +1,8 @@
+rsync -av \
+  json2csv.py \
+  mdws2json.js \
+  package.json \
+  archiefeenheidsoorten.csv \
+  .htaccess \
+  index.php \
+  hualab.nl:/home/rick/hualab/mdws2csv

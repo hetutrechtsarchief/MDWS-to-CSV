@@ -20,8 +20,5 @@ if (isset($_FILES["file"]) && $_FILES["file"]["error"]==0) {
 <form action="?" method="post" enctype="multipart/form-data">
 <label for="file">Selecteer een 'Uitvoer-voor-MDWS.txt' bestand:</label><br><br>
 <input required accept=".txt" type="file" id="file" name="file"><br><br>
-
-<!-- Download als:<br><br> -->
-<!-- <input type="submit" value="JSON"> -->
 <input type="submit" value="Converteer naar CSV">
 </form>

@@ -12,6 +12,8 @@ if (isset($_FILES["file"]) && $_FILES["file"]["error"]==0) {
     header("Content-disposition: attachment; filename=$basename.csv");
     passthru("./mdws2json.js < $tmpfile | ./json2csv.py | uconv -f utf-8 -t utf-8 --add-signature");
     die();
+  } else {
+    die("Probleem bij het lezen van het bestand");
   }
 }
 

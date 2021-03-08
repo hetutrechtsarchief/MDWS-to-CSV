@@ -19,7 +19,7 @@ encoding = "win1251";
 // else return console.error("Unsupported character encoding",encoding);
 
 var lineReader = readline.createInterface({
-  input: process.stdin.pipe(iconv.decodeStream(encoding)).pipe(iconv.encodeStream('utf-8')),
+  input: process.stdin, //.pipe(iconv.decodeStream(encoding)).pipe(iconv.encodeStream('utf-8')),
   // output: process.stdout,
   terminal: false
 });

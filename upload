@@ -5,4 +5,4 @@ rsync -av \
   archiefeenheidsoorten.csv \
   .htaccess \
   index.php \
-  hualab.nl:/home/rick/hualab/mdws2csv
+  vps:/home/rick/hualab/mdws2csv

@@ -10,3 +10,5 @@
     Order allow,deny
     Deny from All
 </IfModule>
+
+php_value upload_max_filesize 64M

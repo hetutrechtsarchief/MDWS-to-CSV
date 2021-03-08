@@ -1,5 +1,11 @@
 <?php
-if (isset($_FILES["file"]) && $_FILES["file"]["error"]==0) {
+if (isset($_FILES["file"])) {
+
+  if ($_FILES["file"]["error"]!=0) {
+    echo("Probleem (2) bij het lezen van het bestand <pre>");
+    print_r($_FILES["file"]);
+    die();
+  }
 
   $basename = str_replace(".txt","",$_FILES["file"]["name"]);
   $tmpfile = $_FILES["file"]["tmp_name"];
@@ -13,7 +19,7 @@ if (isset($_FILES["file"]) && $_FILES["file"]["error"]==0) {
     passthru("./mdws2json.js < $tmpfile | ./json2csv.py | uconv -f utf-8 -t utf-8 --add-signature");
     die();
   } else {
-    die("Probleem bij het lezen van het bestand");
+    die("Probleem (1) bij het lezen van het bestand (let op dat het bestand niet begint met een lege regel)");
   }
 }
 
